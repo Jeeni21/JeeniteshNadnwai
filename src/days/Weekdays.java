@@ -8,7 +8,7 @@ package days;
  *
  * @author sivagamasrinivasan
  */
-public class Weekdays 
+/*public class Weekdays 
 {
   public void nameOfDay(String code)
      {
@@ -38,6 +38,6 @@ public class Weekdays
     }
   
 }
-}
+}*/
 
 
